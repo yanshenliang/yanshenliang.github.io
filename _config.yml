@@ -1,11 +1,26 @@
 # Site settings
-title: Microdust
-header-img: "img/autumn2.jpg"
-tagline: "吉光片羽"  
-description: "在遙遠的地方 一切虔誠終必相遇"  
-baseurl: ""
-# url: "http://azeril.me"  
-# url: "http://localhost:4000"
+title: MrJiang Blog
+# filing: 粤ICP备17125314号
+SEOTitle: MrJiang的博客 | MrJiang Blog
+header-img: img/post-bg-swift.jpg
+email: 1031941352@qq.com
+description: "这家伙总以为自己是个天才，实际并不比别人聪明多少！"
+keyword: "MrJiang, Houven, houven, Java Dev ,ophina "
+# url: "http://www.jetbrains.org.cn"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/ophina/ophina.github.io" # you code repository
+
+
+# Sidebar settings
+sidebar: true  #添加侧边栏
+sidebar-about-description: "简单的描述一下你自己"
+sidebar-avatar: /img/Zero.png     #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
+
+
+githubPage: GitHubPage提供构建部署服务
+githubPageUrl: https://pages.github.com/
+
+
 
 url: http://stardust.cat
 # enforce_ssl: 
@@ -45,7 +60,14 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
 
-# Title
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
 
 
 # Defaults for posts
@@ -60,18 +82,20 @@ defaults:
       header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
-# Comments 
-comments :
-  provider : duoshuo
-  duoshuo :
-    short_name : Azeril
-  disqus :
-      short_name : Azeril
+# Featured Tags
+featured-tags: false                     # 是否使用首页标签
+featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
-# Analytics and webmaster tools stuff goes here
-google_analytics: UA-66863061-1
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
 
 # Links to include in footer navigation
+friends: [
+    {
+        title: "MrChang的博客",
+        href: "https://github.com/changdaye"
+    }
+]
