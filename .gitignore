@@ -1,2 +1,5 @@
+# debug file
 _site
+.idea/*
+
 node_modules
