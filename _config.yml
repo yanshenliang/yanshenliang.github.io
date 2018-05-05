@@ -6,7 +6,7 @@ url: https://mazhuang.org
 date_format: "ordinal"
 title: 码志
 subtitle: "打码改变人生"
-description: "马壮的个人博客"
+description: "巫师的个人博客"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Houven Jiang
 organization: zkh360.com
 organization_url: http://www.zkh360.com
-github_username: mzlogin
+github_username: ophina
 location: Wuhan, China
-email: chumpma@gmail.com
+email: feng920820@126.com
 
 # ---------------- #
 #    Navigation    #
