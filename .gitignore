@@ -1,5 +1,7 @@
-# debug file
-_site
-.idea/*
-
-node_modules
+_site/
+*.swp
+*.~vsd
+\#*\#
+*~
+.DS_Store
+Gemfile.lock
