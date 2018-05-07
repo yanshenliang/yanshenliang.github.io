@@ -1,2 +1,2 @@
-source 'https://rubygems.org'
+source 'https://houven.top'
 gem 'github-pages', group: :jekyll_plugins
