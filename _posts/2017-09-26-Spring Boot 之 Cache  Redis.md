@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Spring Boot 之 Cache Redis
-categories: Spring Boot
+categories: SpringBoot
 description: Spring Boot 之 Cache Redis
-keywords: Spring Boot, Redis, Cache
+keywords: SpringBoot, Redis, Cache
 
 ---
 

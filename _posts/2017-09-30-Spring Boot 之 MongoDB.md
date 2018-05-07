@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Spring Boot 之 MongoDB
-categories: Spring Boot
+categories: SpringBoot
 description: Spring Boot 之 MongoDB
-keywords: Spring Boot, MongoDB, nosql
+keywords: SpringBoot, MongoDB, nosql
 
 ---
 

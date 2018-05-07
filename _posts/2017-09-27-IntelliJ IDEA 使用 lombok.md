@@ -1,9 +1,9 @@
 ---
 layout: post
 title: IntelliJ IDEA 使用 lombok
-categories: Spring Boot
+categories: [SpringBoot, Idea]
 description: 减少冗长代码，使pojo更简洁
-keywords: Spring Boot, lombok, Idea
+keywords: SpringBoot, lombok, Idea
 
 ---
 

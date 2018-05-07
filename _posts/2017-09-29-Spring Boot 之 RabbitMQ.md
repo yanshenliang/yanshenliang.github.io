@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Spring Boot 之 RabbitMQ
-categories: Spring Boot
+categories: SpringBoot
 description: Spring Boot 之 RabbitMQ
-keywords: Spring Boot, RabbitMQ, 消息队列
+keywords: SpringBoot, RabbitMQ, 消息队列
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Spring Boot 之 Mybatis
-categories: Spring Boot
+categories: SpringBoot
 description: Spring Boot 之 Mybatis
-keywords: Spring Boot, Mybatis
+keywords: SpringBoot, Mybatis
 ---
 ## POM
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Spring Boot 之 Cache Ehcache
-categories: Spring Boot
-description: Spring Boot 之 Cache Ehcache
-keywords: Spring Boot, Ehcache, Cache
----
+   layout: post
+   title: Spring Boot 之 Cache Ehcache
+   categories: SpringBoot
+   description: Spring Boot 之 Cache Ehcache
+   keywords: SpringBoot, Ehcache, Cache
+   ---
 
 
 ## POM

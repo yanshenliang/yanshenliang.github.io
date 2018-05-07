@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Spring Boot 之 Email
-categories: Spring Boot
+categories: SpringBoot
 description: Spring Boot 之 Email
-keywords: Spring Boot, Email
+keywords: SpringBoot, Email
 ---
 
 ## POM

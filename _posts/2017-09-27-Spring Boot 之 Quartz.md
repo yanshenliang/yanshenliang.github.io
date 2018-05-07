@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Spring Boot 之 Quartz
-categories: Spring Boot
+categories: SpringBoot
 description: Quartz定时任务
-keywords: Spring Boot, Quartz, 定时任务
+keywords: SpringBoot, Quartz, 定时任务
 
 ---
 

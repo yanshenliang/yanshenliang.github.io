@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Spring Boot 之 Shiro
-categories: Spring Boot
+categories: SpringBoot
 description: 权限管理
-keywords: Spring Boot, Shiro, 权限
+keywords: SpringBoot, Shiro, 权限
 
 ---
 

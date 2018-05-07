@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Spring Boot 之 Web应用
-categories: Spring Boot
+categories: SpringBoot
 description: Spring Boot 之 Web应用
-keywords: Spring Boot, Web
+keywords: SpringBoot, Web
 ---
 
 ## 静态资源访问
