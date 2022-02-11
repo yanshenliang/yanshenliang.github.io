@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T03:41:49.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="DDTLQDliXqkpY6UJ7Uut" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-11T05:43:31.102Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="3Q27ZMPLlVxin0Q3q0xo" version="16.5.6" type="github">
   <diagram id="tP0htK_A89CHBBAlXfLt" name="Page-1">
     <mxGraphModel dx="1042" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="170" width="180" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="vU2qt1rbrAaDwHg2KqTE-1" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;&lt;b&gt;binlog解析&lt;/b&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;DataLink/Canal&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vU2qt1rbrAaDwHg2KqTE-1" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;DataLink/Canal&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="403.5" y="230" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-3" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;Kafka&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -37,8 +37,8 @@
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-15" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;埋点数据&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="360" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vU2qt1rbrAaDwHg2KqTE-19" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;&lt;b&gt;日志引擎&lt;/b&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;Flume/filebeat&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;/logstash&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="394" y="340" width="169" height="130" as="geometry" />
+        <mxCell id="vU2qt1rbrAaDwHg2KqTE-19" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;Flume/filebeat&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;/logstash&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="340" width="169" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -75,6 +75,12 @@
         </mxCell>
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-31" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;缓存&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1000" y="372" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vU2qt1rbrAaDwHg2KqTE-34" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;&lt;b&gt;binlog解析&lt;/b&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="435.25" y="239" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vU2qt1rbrAaDwHg2KqTE-35" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;&lt;b&gt;日志引擎&lt;/b&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="433.5" y="350" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
