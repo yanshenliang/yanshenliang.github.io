@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T06:32:48.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="VZz5mJfmqNyatcHZVRc2" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-11T06:50:20.313Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="aXJ-Kpjt2KIt7q45zL2n" version="16.5.6" type="github">
   <diagram id="tP0htK_A89CHBBAlXfLt" name="Page-1">
-    <mxGraphModel dx="1396" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1611" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vU2qt1rbrAaDwHg2KqTE-122" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;sketch=0;fontFamily=Verdana;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1491" y="774" width="142" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-60" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;sketch=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="30" y="150" width="1640" height="350" as="geometry" />
         </mxCell>
@@ -107,7 +110,7 @@
           <mxGeometry x="1200" y="170" width="185.5" height="310" as="geometry" />
         </mxCell>
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-40" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;Redis|Hbase|Es&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;tableStore&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1224.13" y="240" width="135.87" height="60" as="geometry" />
+          <mxGeometry x="1222.13" y="230" width="145.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -161,7 +164,7 @@
           <mxGeometry x="31" y="580" width="1640" height="350" as="geometry" />
         </mxCell>
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-63" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1479" y="600" width="162" height="310" as="geometry" />
+          <mxGeometry x="1470" y="600" width="171" height="310" as="geometry" />
         </mxCell>
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-64" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="933" y="600" width="185.5" height="310" as="geometry" />
@@ -236,7 +239,7 @@
           <mxGeometry x="1201" y="600" width="185.5" height="310" as="geometry" />
         </mxCell>
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-90" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;Redis|Hbase|Es&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;tableStore&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1225.13" y="670" width="135.87" height="60" as="geometry" />
+          <mxGeometry x="1224.13" y="712" width="144.87" height="75" as="geometry" />
         </mxCell>
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-91" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -247,38 +250,20 @@
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-92" value="&lt;span style=&quot;font-size: 19px&quot;&gt;存储系统&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1214" y="610" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vU2qt1rbrAaDwHg2KqTE-93" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;kudu|Tidb&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1225.37" y="786" width="135.63" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-94" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1411" y="704.5" as="sourcePoint" />
-            <mxPoint x="1471" y="705" as="targetPoint" />
+            <mxPoint x="1402" y="750.33" as="sourcePoint" />
+            <mxPoint x="1462" y="750.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-95" value="推荐引擎&lt;br&gt;搜索引擎" style="shape=tape;whiteSpace=wrap;html=1;rounded=1;dashed=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1502" y="655" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vU2qt1rbrAaDwHg2KqTE-96" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1411" y="812.5" as="sourcePoint" />
-            <mxPoint x="1471" y="813" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vU2qt1rbrAaDwHg2KqTE-97" value="准实时查询" style="shape=tape;whiteSpace=wrap;html=1;rounded=1;dashed=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1502" y="767" width="120" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-98" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;实时查询&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1524" y="650" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vU2qt1rbrAaDwHg2KqTE-99" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;impala/Presto&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1403" y="769" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-100" value="&lt;span style=&quot;font-size: 19px&quot;&gt;线上服务引擎&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1476" y="610" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vU2qt1rbrAaDwHg2KqTE-101" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;简单业务处理场景，&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;不会涉及太多流join与&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;各维度历史数据聚合场景&lt;/pre&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;dashed=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1732" y="640" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="vU2qt1rbrAaDwHg2KqTE-102" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=80;rounded=1;fontSize=13;rotation=-180;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1647" y="683" width="80" height="80" as="geometry" />
@@ -321,6 +306,21 @@
             <mxPoint x="748.92" y="814" as="sourcePoint" />
             <mxPoint x="749" y="844" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vU2qt1rbrAaDwHg2KqTE-119" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1558.33" y="506" as="sourcePoint" />
+            <mxPoint x="1558.33" y="576" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vU2qt1rbrAaDwHg2KqTE-121" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;1.&lt;/b&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34;&quot;&gt;用户偏好(关注|订阅标签)&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34;&quot;&gt;2.时间衰减，星友加权，额外配置加权等；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34;&quot;&gt;3.实时补足；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34;&quot;&gt;4.新品试探&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1477" y="793" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vU2qt1rbrAaDwHg2KqTE-123" value="&lt;b&gt;借助实时引擎&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;sketch=0;fontFamily=Verdana;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="770" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vU2qt1rbrAaDwHg2KqTE-124" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;复杂计算与高热内容召回场景&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;多表聚合，各种窗口与&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;menlo&amp;#34; ; font-size: 12pt&quot;&gt;多层聚合操作类&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;dashed=1;fontSize=13;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1731" y="641" width="220" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
